@@ -1,4 +1,4 @@
-module github.com/foxcpp/mailsec-check
+module ggithub.com/Frankcav/vps_mailsec-check
 
 go 1.13
 
